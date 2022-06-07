@@ -1,0 +1,2 @@
+C:\Users\W10\Documents\UPC\Programación 1\Git_Molino\Molino\Molino\Molino\x64\Debug\Molino.vcxproj.AssemblyReference.cache
+C:\Users\W10\Documents\UPC\Programación 1\Git_Molino\Molino\Molino\Molino\x64\Debug\Molino.vcxproj.SuggestedBindingRedirects.cache
